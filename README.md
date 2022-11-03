@@ -1,10 +1,3 @@
-# Getting Started with Create React App
+# Modern Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
+![Screen Shot 2022-11-03 at 9 04 52 PM](https://user-images.githubusercontent.com/88326256/199801450-b0920fc4-c9e6-436e-b961-e49d25fbf18b.png)
